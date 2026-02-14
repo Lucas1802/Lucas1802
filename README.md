@@ -53,5 +53,5 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 
 ## 📫 Contato
 
-🔗 linkedin.com/in/lucas-gabriel2002
-📍 Curitiba - PR
+- 🔗 linkedin.com/in/lucas-gabriel2002
+- 📍 Curitiba - PR
