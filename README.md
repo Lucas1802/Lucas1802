@@ -26,7 +26,7 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ### 🚀 Tecnologias que utilizo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,html,css,react,vscode"/>
 </p>
 
 <p>
