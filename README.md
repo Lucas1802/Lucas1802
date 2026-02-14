@@ -40,8 +40,8 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 
 ## 📚 Em constante evolução
 
-<p>
-<img src="https://skillicons.dev/icons?i=jest,nodejs,aws" alt="Jest, Nodejs e AWS"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120"/>
 </p>
 
 - Automação testes
@@ -54,8 +54,7 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1802&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=radical"/>
 </p>
 
 ---
