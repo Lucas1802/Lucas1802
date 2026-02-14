@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World 👋 Eu sou Lucas Mendes</h1>
 
 <p align="center">
-QA Engineer | Testes Manuais & Automação | Cypress
+QA Engineer | Test Automation | Manual Testing | Cypress | Postman | Jira | Python | JavaScript
 </p>
 
 <p align="center">
@@ -30,10 +30,10 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
@@ -41,10 +41,10 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📚 Em constante evolução
 
 <p>
-<img src="https://skillicons.dev/icons?i=jest,nodejs,aws" />
+<img src="https://skillicons.dev/icons?i=jest,nodejs,aws" alt="Jest, Nodejs e AWS"/>
 </p>
 
-- Testes Unitários
+- Automação testes
 - Automação de API
 - Integração Contínua (CI/CD)
 - Arquitetura de Testes
@@ -54,8 +54,8 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1802&layout=compact&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1802&layout=compact&theme=github_dark"/>
 </p>
 
 ---
