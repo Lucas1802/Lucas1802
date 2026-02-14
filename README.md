@@ -26,7 +26,7 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ### 🚀 Tecnologias que utilizo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,vscode"/>
 </p>
 
 <p>
@@ -48,14 +48,6 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 - Automação de API
 - Integração Contínua (CI/CD)
 - Arquitetura de Testes
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark&cache_seconds=1800"/>
-</p>
 
 ---
 
