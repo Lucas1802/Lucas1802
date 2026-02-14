@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World 👋 Eu sou Lucas Mendes</h1>
 
 <p align="center">
-QA Engineer | Test Automation | Manual Testing | Cypress | Postman | Jira | Python | JavaScript
+  Engenheiro QA | Automação Testes | Testes Manuais | Cypress | Postman | Jira | Python | JavaScript
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@ QA Engineer | Test Automation | Manual Testing | Cypress | Postman | Jira | Pyth
 
 ## 👨‍💻 Sobre mim
 
-💻 Ex-Desenvolvedor Full-Stack
-🧪 Em transição estratégica para QA Engineer
-🚀 Focado em qualidade, automação e estabilidade de sistemas
-📍 Curitiba - PR
+- 💻 Ex-Desenvolvedor Full-Stack
+- 🧪 Em transição estratégica para QA Engineer
+- 🚀 Focado em qualidade, automação e estabilidade de sistemas
+- 📍 Curitiba - PR
 
 Tenho background em desenvolvimento, o que me permite analisar regras de negócio com profundidade, antecipar falhas e estruturar testes mais eficientes.
 
@@ -26,14 +26,14 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ### 🚀 Tecnologias que utilizo
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,postgres,git,github,vscode,docker" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
@@ -54,12 +54,12 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-🔗 linkedin.com/in/lucas-gabriel2002  
-📍 Curitiba - PR  
+🔗 linkedin.com/in/lucas-gabriel2002
+📍 Curitiba - PR
