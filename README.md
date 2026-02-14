@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou Lucas Mendes</h1>
+<h1 align="center"> Hello World 👋 Eu sou Lucas Mendes</h1>
 
 <p align="center">
 QA Engineer | Testes Manuais & Automação | Cypress
@@ -41,7 +41,7 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📚 Em constante evolução
 
 <p>
-<img src="https://skillicons.dev/icons?i=jest,node,aws" />
+<img src="https://skillicons.dev/icons?i=jest,nodejs,aws" />
 </p>
 
 - Testes Unitários
@@ -54,8 +54,8 @@ Tenho background em desenvolvimento, o que me permite analisar regras de negóci
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1802&layout=compact&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucas1802&show_icons=true&theme=github_dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1802&layout=compact&theme=github_dark"/>
 </p>
 
 ---
